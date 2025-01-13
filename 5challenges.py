@@ -2,7 +2,7 @@
 ##perform the check, and print the result. Include comments explaining each part of the code.
 
 number = int(input("Enter number :"))
-
+ ##if-else statment
 if number % 2 == 0 :
     print(f"The number which is  is even")
     
