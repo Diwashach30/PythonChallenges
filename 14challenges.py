@@ -19,4 +19,5 @@ if count > 0:
     print(f"Average: {average:.2f}")
 else:
     print("No valid values to calculate average.")
+    
  
